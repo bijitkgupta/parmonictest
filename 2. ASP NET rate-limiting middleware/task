@@ -1,0 +1,2 @@
+Write a custom ASP.NET Core middleware to perform IP-address based rate-limiting. The middleware should not allow more than 10 requests per second per IP address.
+Hardcoding values is ok.
