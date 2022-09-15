@@ -1,0 +1,5 @@
+You are in-charge of planning the first iteration of a new backend (no UI) microservice to maintain a single-entry ledger. Write a detailed README file to describe:
+ The microservice’s proposed design. Include a block diagram.
+ How other services should communicate with this one.
+ How it could be deployed to a cloud of your choice.
+ Possible roadblocks, questions, unclear requirements.
