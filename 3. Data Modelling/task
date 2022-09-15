@@ -1,0 +1,2 @@
+Write a set of DDD entity &amp; value-object classes in C# to represent a simple single-entry ledger. Example (https://www.zoho.com/books/guides/single-entry-and-double-entry-bookkeeping.html). Include validation code.
+Create a README file explaining it. You may also describe shortcomings.
